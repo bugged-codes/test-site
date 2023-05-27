@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Layout from '../components/layout/Layout';
+import Layout from '../components/layout/Layout.jsx';
 
 const Contactus = () => {
 	const [name, setName] = useState('');

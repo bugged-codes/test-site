@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
-import Header from './Header';
-import Footer from './Footer';
+import Header from './Header.jsx';
+import Footer from './Footer.jsx';
 import { Helmet } from 'react-helmet';
 import '../../Styles.css';
 

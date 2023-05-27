@@ -1,8 +1,8 @@
 import { Routes, Route } from 'react-router-dom';
-import Home from '../pages/Home';
-import Aboutus from '../pages/Aboutus';
-import Contactus from '../pages/Contactus';
-import Page2 from '../pages/Page2';
+import Home from '../pages/Home.jsx';
+import Aboutus from '../pages/Aboutus.jsx';
+import Contactus from '../pages/Contactus.jsx';
+import Page2 from '../pages/Page2.jsx';
 
 const Router = () => {
 	return (
